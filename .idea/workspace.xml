@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73461710-3bca-4ce7-880a-a200e4615b64" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2mImZYjQ2RMEpJGHzZoyzQhmpkO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Java lib/lucene-9.11.1/lucene-9.11.1/modules&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.LuceneSearchEngine">
+    <configuration name="LuceneSearchEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LuceneSearchEngine" />
+      <module name="Java_Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchEngine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchEngine" />
+      <module name="Java_Projects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LuceneSearchEngine" />
+        <item itemvalue="Application.SearchEngine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73461710-3bca-4ce7-880a-a200e4615b64" name="Changes" comment="" />
+      <created>1726772529162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726772529162</updated>
+      <workItem from="1726772530447" duration="1037000" />
+      <workItem from="1726773607416" duration="1062000" />
+      <workItem from="1726775157648" duration="513000" />
+      <workItem from="1726775725619" duration="908000" />
+      <workItem from="1726776658892" duration="1348000" />
+      <workItem from="1727375202048" duration="2070000" />
+      <workItem from="1727551722317" duration="3072000" />
+      <workItem from="1727555902771" duration="7006000" />
+      <workItem from="1727639746706" duration="16010000" />
+      <workItem from="1727925852184" duration="6903000" />
+      <workItem from="1727999522646" duration="13293000" />
+      <workItem from="1728019498419" duration="257000" />
+      <workItem from="1728019788143" duration="1096000" />
+      <workItem from="1728056557791" duration="8740000" />
+      <workItem from="1728141036621" duration="12583000" />
+      <workItem from="1728157277605" duration="1870000" />
+      <workItem from="1728159485450" duration="48946000" />
+      <workItem from="1728307229624" duration="4528000" />
+      <workItem from="1728312066439" duration="33000" />
+      <workItem from="1728321106498" duration="1323000" />
+      <workItem from="1729826482278" duration="1214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
